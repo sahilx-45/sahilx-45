@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sahil Naykodi</h1>
-<h3 align="center">Turning Logic Into Innovation | Full-Stack Developer | Java Enthusiast</h3>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C4FF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Java+Enthusiast;Turning+Logic+Into+Innovation" alt="Typing SVG" />
+  </a>
+</p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sahilx-45&label=Profile%20views&color=0e75b6&style=flat" alt="sahilx-45" />
