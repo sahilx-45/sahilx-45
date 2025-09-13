@@ -83,14 +83,12 @@ _Built with **MERN + Java Microservices**_
 <p align="center">
   <!-- Multi-theme GitHub stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=sahilx-45&show_icons=true&theme=dark&title_color=00ff7f&icon_color=00ff7f&text_color=9be6c4" alt="GitHub Stats - Green" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=sahilx-45&show_icons=true&theme=dark&title_color=58a6ff&icon_color=58a6ff&text_color=9fb8ff" alt="GitHub Stats - Blue" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=sahilx-45&show_icons=true&theme=transparent&title_color=111827&icon_color=0366d6&text_color=374151" alt="GitHub Stats - Light" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=sahilx-45&show_icons=true&theme=dark&title_color=9b59ff&icon_color=9b59ff&text_color=caa7ff" alt="GitHub Stats - Neon" height="165"/>
+
 </p>  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilx-45&theme=radical" alt="Streak Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sahilx-45&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilx-45&theme=&show_icons=true&theme=dark&title_color=00ff7f&icon_color=00ff7f&text_color=9be6c4" alt="Streak Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sahilx-45&show_icons=true&theme=dark&title_color=00ff7f&icon_color=00ff7f&text_color=9be6c4" alt="Top Languages"/>
 </p>
 
 ---
