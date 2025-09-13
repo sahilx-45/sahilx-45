@@ -10,7 +10,6 @@
   <img src="https://komarev.com/ghpvc/?username=sahilx-45&label=Profile%20views&color=0e75b6&style=flat" alt="sahilx-45" />
   <img src="https://img.shields.io/github/followers/sahilx-45?label=Followers&style=social" alt="followers-count" />
   <img src="https://img.shields.io/github/stars/sahilx-45?label=Stars" alt="stars-count" />
-  <img src="https://img.shields.io/github/repo-size/sahilx-45?label=Repo%20Size&style=flat" alt="repo-size" />
 </p>
 
 ---
