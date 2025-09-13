@@ -26,8 +26,6 @@
 
 ## ⚡ Tech Stack  
 
-## ⚡ Tech Stack  
-
 <p align="center">
   <b>Backend:</b><br>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50"/> 
@@ -86,13 +84,14 @@ _Built with **MERN + Java Microservices**_
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahilx-45&show_icons=true&theme=radical" alt="stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilx-45&theme=radical" alt="streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sahilx-45&show_icons=true&theme=green-apple" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilx-45&theme=green-apple" alt="Streak Stats" height="165"/>
 </p>  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sahilx-45&show_icons=true&locale=en&layout=compact&theme=radical" alt="top-langs"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sahilx-45&show_icons=true&locale=en&layout=compact&theme=green-apple" alt="Top Languages"/>
 </p>
+
 
 ---
 
