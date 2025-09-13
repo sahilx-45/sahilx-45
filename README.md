@@ -53,7 +53,7 @@
 
 ---
 
-## 🚀 Full-Stack Projects  
+## 🚀 Featured Full-Stack Projects  
 
 🔹 **TaskFlow – Smart Task Manager** 📝  
 _Built with **Spring Boot + React + MySQL**_  
@@ -84,12 +84,12 @@ _Built with **MERN + Java Microservices**_
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahilx-45&show_icons=true&theme=green" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilx-45&theme=green" alt="Streak Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sahilx-45&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilx-45&theme=radical" alt="Streak Stats" height="165"/>
 </p>  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sahilx-45&show_icons=true&locale=en&layout=compact&theme=green" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sahilx-45&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
 
