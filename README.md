@@ -31,13 +31,13 @@ I love exploring datasets, building **ML models**, and visualizing data insights
 ---
 
 ## 💻 Projects
-Here are some of my **data science projects**:
 
-- **Smart Symptom Checker** – AI-based disease prediction using **Python, ML, and Streamlit**  
-- **Data Analysis Projects** – Exploratory Data Analysis, visualization, and insights  
-- **MySQL Projects** – Database creation, queries, and data management  
+| Project | Description | Tech Stack | GitHub |
+|---------|------------|------------|--------|
+| 🩺 **Smart Symptom Checker** | AI-powered disease prediction using user symptoms. Shows probability charts and stores data in a local database. | Python, Streamlit, scikit-learn, SQLite, Matplotlib | [Repo](https://github.com/sahilx-45/smart-symptom-checker) |
+| 📈 **Stock Market Prediction** | Predicts stock price trends using historical data with visualization dashboards. | Python, Pandas, NumPy, Matplotlib, scikit-learn | [Repo](https://github.com/sahilx-45/stock-market-prediction) |
 
-> 🔗 Check them out on my repositories!
+> Each project card shows **what the project does, tech used, and a direct link to the repo**.  
 
 ---
 
