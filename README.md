@@ -1,95 +1,54 @@
-<h1 align="center">Hi 👋, I'm Sahil Naykodi</h1>
+<h1 align="center">👋 Hi, I'm Sahil Naykodi</h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C4FF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Java+Enthusiast;Turning+Logic+Into+Innovation" alt="Typing SVG" />
-  </a>
+  <b>Data Science Enthusiast | Python Developer | ML & Data Visualization</b>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sahilx-45&label=Profile%20views&color=0e75b6&style=flat" alt="sahilx-45" />
-  <img src="https://img.shields.io/github/followers/sahilx-45?label=Followers&style=social" alt="followers-count" />
-  <img src="https://img.shields.io/github/stars/sahilx-45?label=Stars" alt="stars-count" />
-</p>
-
----
-
-## 👨‍💻 About Me  
-
-- 🎯 Focus: **Building robust backends + interactive frontends**  
-- 🌱 Currently learning: **Spring Framework & Backend Architecture**  
-- 💡 Philosophy: **Clean code | Continuous learning | Real-world solutions**  
-- 📫 Reach me: **sahilnaykodi084@gmail.com**  
-
----
-
-## ⚡ Tech Stack  
-
-<p align="center">
-  <b>Backend:</b><br>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'"/> 
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="50" height="50" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'"/>
+  <!-- Profile Stats Badges -->
+  <img src="https://komarev.com/ghpvc/?username=sahilx-45&style=flat-square&color=blue" alt="Profile Views">
+  <img src="https://img.shields.io/github/followers/sahilx-45?label=Followers&style=flat-square&color=green" alt="Followers">
+  <img src="https://img.shields.io/github/stars/sahilx-45?style=flat-square&color=yellow" alt="Stars">
 </p>
 
 <p align="center">
-  <b>Frontend:</b><br>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50" height="50" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" height="50" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50" height="50" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'"/>
-</p>
-
-<p align="center">
-  <b>Database & Tools:</b><br>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'"/> 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" height="50" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50" height="50" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'"/>
+  <!-- Skills Badges -->
+  <img src="https://img.shields.io/badge/Python-3.12-blue?logo=python&style=for-the-badge" alt="Python">
+  <img src="https://img.shields.io/badge/NumPy-1.26-orange?logo=numpy&style=for-the-badge" alt="NumPy">
+  <img src="https://img.shields.io/badge/Pandas-1.6-lightblue?logo=pandas&style=for-the-badge" alt="Pandas">
+  <img src="https://img.shields.io/badge/Matplotlib-3.8-purple?logo=matplotlib&style=for-the-badge" alt="Matplotlib">
+  <img src="https://img.shields.io/badge/MySQL-8.0-blue?logo=mysql&style=for-the-badge" alt="MySQL">
 </p>
 
 ---
 
-## 🚀 Featured Full-Stack Projects  
+## 🌟 About Me
+Hi! I'm **Sahil Naykodi**, a passionate **Data Science learner** from Pune, India.  
+I love exploring datasets, building **ML models**, and visualizing data insights.  
 
-🔹 **TaskFlow – Smart Task Manager** 📝  
-_Built with **Spring Boot + React + MySQL**_  
-![Java](https://img.shields.io/badge/Java-orange?logo=java) ![Spring](https://img.shields.io/badge/SpringBoot-green?logo=springboot) ![React](https://img.shields.io/badge/React-blue?logo=react) ![MySQL](https://img.shields.io/badge/MySQL-teal?logo=mysql)  
-
-🔹 **EduConnect – Online Learning Platform** 🎓  
-_Built with **Java + Spring Boot + React + MongoDB**_  
-![Java](https://img.shields.io/badge/Java-orange?logo=java) ![Spring](https://img.shields.io/badge/SpringBoot-green?logo=springboot) ![React](https://img.shields.io/badge/React-blue?logo=react) ![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?logo=mongodb)  
-
-🔹 **ShopSmart – E-Commerce App** 🛒  
-_Built with **MERN + Java Microservices**_  
-![Node](https://img.shields.io/badge/Node.js-darkgreen?logo=node.js) ![React](https://img.shields.io/badge/React-blue?logo=react) ![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?logo=mongodb) ![Java](https://img.shields.io/badge/Java-orange?logo=java)  
-
-👉 More projects here: [My GitHub Repositories](https://github.com/sahilx-45?tab=repositories)  
+> 💡 Fun fact: I enjoy combining **data, code, and creativity** to solve real-world problems!  
 
 ---
 
-## 🤝 Connect With Me  
+## 💻 Projects
+Here are some of my **data science projects**:
 
+- **Smart Symptom Checker** – AI-based disease prediction using **Python, ML, and Streamlit**  
+- **Data Analysis Projects** – Exploratory Data Analysis, visualization, and insights  
+- **MySQL Projects** – Database creation, queries, and data management  
+
+> 🔗 Check them out on my repositories!
+
+---
+
+## 📫 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/sahil-naykodi" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="40" /></a>
-  <a href="https://instagram.com/sahil_naykodi" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40" width="40" /></a>
-  <a href="https://www.leetcode.com/sahil_45" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="40" width="40" /></a>
+  <a href="mailto:sahilnaykodi084@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/sahilx-45"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/sahil-naykodi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.instagram.com/sahilnaykodi/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 </p>
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <!-- Multi-theme GitHub stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=sahilx-45&show_icons=true&theme=dark&title_color=00ff7f&icon_color=00ff7f&text_color=9be6c4" alt="GitHub Stats - Green" height="165"/>
-
-</p>  
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilx-45&theme=&show_icons=true&theme=dark&title_color=00ff7f&icon_color=00ff7f&text_color=9be6c4" alt="Streak Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sahilx-45&show_icons=true&theme=dark&title_color=00ff7f&icon_color=00ff7f&text_color=9be6c4" alt="Top Languages"/>
-</p>
-
----
-
-✨ _“Code is like humor. When you have to explain it, it’s bad.”_  
+<p align="center">Made with ❤️ using <b>Python</b> & <b>Data Science</b></p>
