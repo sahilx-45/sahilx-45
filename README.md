@@ -35,9 +35,16 @@ I love exploring datasets, building **ML models**, and visualizing data insights
 | Project | Description | Tech Stack | GitHub |
 |---------|------------|------------|--------|
 | 🩺 **Smart Symptom Checker** | AI-powered disease prediction using user symptoms. Shows probability charts and stores data in a local database. | Python, Streamlit, scikit-learn, SQLite, Matplotlib | [Repo](https://github.com/sahilx-45/smart-symptom-checker) |
-| 📈 **Stock Market Prediction** | Predicts stock price trends using historical data with visualization dashboards. | Python, Pandas, NumPy, Matplotlib, scikit-learn | [Repo](https://github.com/sahilx-45/stock-market-prediction) |
+| 🌍 **AI-Based Travel Planner** | Generates optimized travel itineraries based on user preferences. Distributes locations across days with ratings and stores itinerary in a database. | Python, Streamlit, MySQL, Pandas | [Repo](https://github.com/sahilx-45/AI-Based-Travel-Planner) |
 
 > Each project card shows **what the project does, tech used, and a direct link to the repo**.  
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sahilx-45&show_icons=true&theme=radical" />
+</p>
 
 ---
 
