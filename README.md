@@ -36,6 +36,7 @@ I love exploring datasets, building **ML models**, and visualizing data insights
 |---------|------------|------------|--------|
 | 🩺 **Smart Symptom Checker** | AI-powered disease prediction using user symptoms. Shows probability charts and stores data in a local database. | Python, Streamlit, scikit-learn, SQLite, Matplotlib | [Repo](https://github.com/sahilx-45/smart-symptom-checker) |
 | 🌍 **AI-Based Travel Planner** | Generates optimized travel itineraries based on user preferences. Distributes locations across days with ratings and stores itinerary in a database. | Python, Streamlit, MySQL, Pandas | [Repo](https://github.com/sahilx-45/AI-Based-Travel-Planner) |
+| 🎓 **Student Result Management System** | Python-based system to store student records, calculate percentage automatically, generate grades, and view results using a menu-driven interface. | Python, Dictionaries, CLI, Jupyter Notebook | [Repo](https://github.com/sahilx-45/student-result-management-system) |
 
 > Each project card shows **what the project does, tech used, and a direct link to the repo**.  
 
