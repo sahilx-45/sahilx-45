@@ -1,62 +1,40 @@
-<h1 align="center">👋 Hi, I'm Sahil Naykodi</h1>
+<!-- Animated GitHub profile README for Sahil Naykodi -->
+<div align="center">
 
-<p align="center">
-  <b>Data Science Enthusiast | Python Developer | ML & Data Visualization</b>
-</p>
+<img src="assets/intro.svg?v=1" alt="Sahil Naykodi — animated introduction" width="100%"/>
 
-<p align="center">
-  <!-- Profile Stats Badges -->
-  <img src="https://komarev.com/ghpvc/?username=sahilx-45&style=flat-square&color=blue" alt="Profile Views">
-  <img src="https://img.shields.io/github/followers/sahilx-45?label=Followers&style=flat-square&color=green" alt="Followers">
-  <img src="https://img.shields.io/github/stars/sahilx-45?style=flat-square&color=yellow" alt="Stars">
-</p>
+<img src="assets/right-now.svg?v=1" alt="What I'm building, learning and reading" width="100%"/>
 
-<p align="center">
-  <!-- Skills Badges -->
-  <img src="https://img.shields.io/badge/Python-3.12-blue?logo=python&style=for-the-badge" alt="Python">
-  <img src="https://img.shields.io/badge/NumPy-1.26-orange?logo=numpy&style=for-the-badge" alt="NumPy">
-  <img src="https://img.shields.io/badge/Pandas-1.6-lightblue?logo=pandas&style=for-the-badge" alt="Pandas">
-  <img src="https://img.shields.io/badge/Matplotlib-3.8-purple?logo=matplotlib&style=for-the-badge" alt="Matplotlib">
-  <img src="https://img.shields.io/badge/MySQL-8.0-blue?logo=mysql&style=for-the-badge" alt="MySQL">
-</p>
+<img src="assets/toolkit.svg?v=1" alt="My technology toolkit" width="100%"/>
 
----
+<img src="assets/card.svg?v=1" alt="Sahil Naykodi collectible profile card" width="100%"/>
 
-## 🌟 About Me
-Hi! I'm **Sahil Naykodi**, a passionate **Data Science learner** from Pune, India.  
-I love exploring datasets, building **ML models**, and visualizing data insights.  
+<img src="assets/say-hi.svg?v=1" alt="Say hi — connect with Sahil" width="100%"/>
 
-> 💡 Fun fact: I enjoy combining **data, code, and creativity** to solve real-world problems!  
+</div>
 
----
+## Connect with me
 
-## 💻 Projects
+- [GitHub](https://github.com/sahilx-45)
 
-| Project | Description | Tech Stack | GitHub |
-|---------|------------|------------|--------|
-| 🩺 **Smart Symptom Checker** | AI-powered disease prediction using user symptoms. Shows probability charts and stores data in a local database. | Python, Streamlit, scikit-learn, SQLite, Matplotlib | [Repo](https://github.com/sahilx-45/smart-symptom-checker) |
-| 🌍 **AI-Based Travel Planner** | Generates optimized travel itineraries based on user preferences. Distributes locations across days with ratings and stores itinerary in a database. | Python, Streamlit, MySQL, Pandas | [Repo](https://github.com/sahilx-45/AI-Based-Travel-Planner) |
-| 🎓 **Student Result Management System** | Python-based system to store student records, calculate percentage automatically, generate grades, and view results using a menu-driven interface. | Python, Dictionaries, CLI, Jupyter Notebook | [Repo](https://github.com/sahilx-45/Result-Management-Internship-Project) |
+## Featured projects
 
-> Each project card shows **what the project does, tech used, and a direct link to the repo**.  
+| Project | What it does | Tech |
+|---|---|---|
+| **Smart Symptom Checker** | A Streamlit-based symptom prediction project with stored prediction records and visual summaries. | Python, Scikit-learn, Streamlit, SQLite |
+| **AI-Based Travel Planner** | A travel-planning application backed by a relational database. | Python, Streamlit, MySQL |
+| **SmartCropAdvisor** | A crop recommendation project combining a machine-learning model with a web interface. | Python, Flask, React, Scikit-learn |
+
+## About
+
+I'm an Artificial Intelligence & Data Science engineering student interested in data analytics, machine learning, and building practical software. I enjoy learning by experimenting, exploring datasets, and turning ideas into working projects.
+
+**Current toolkit:** Python · SQL · MySQL · Pandas · NumPy · Excel · Power BI · Matplotlib · Scikit-learn · Jupyter Notebook · GitHub
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahilx-45&show_icons=true&theme=radical" />
-</p>
+<div align="center">
 
----
+*Curious by design. Building one project at a time.*
 
-## 📫 Connect with Me
-<p align="center">
-  <a href="mailto:sahilnaykodi084@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://github.com/sahilx-45"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://www.linkedin.com/in/sahil-naykodi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://www.instagram.com/sahilnaykodi/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-</p>
-
----
-
-<p align="center">Made with ❤️ using <b>Python</b> & <b>Data Science</b></p>
+</div>
