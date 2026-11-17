@@ -1,102 +1,186 @@
 
+<!--
+  SAHIL NAYKODI | GITHUB PROFILE
+  Theme: Dark Editorial / Electric Green
+-->
+
 <div align="center">
 
-# Sahil Naykodi
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0B0F0D&height=180&section=header&text=SAHIL%20NAYKODI&fontSize=48&fontColor=FFFFFF&fontAlignY=42&desc=DATA%20%7C%20INTELLIGENCE%20%7C%20INNOVATION&descSize=13&descAlignY=68&descColor=9EFF00" />
 
-### AI & Data Science Engineering Student · Data Analytics · Machine Learning
+<br/>
 
-I turn raw data into useful insights and ideas into practical projects.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=800&color=9EFF00&center=true&vCenter=true&width=650&lines=Artificial+Intelligence+%26+Data+Science+Student;Aspiring+Data+Analyst;Python+%26+Machine+Learning+Enthusiast;Building+Ideas+Into+Real+Projects" alt="Typing introduction"/>
+
+<br/>
+
+**I explore data. I build solutions. I keep learning.**
+
+<br/>
 
 <a href="https://github.com/sahilx-45">
-  <img src="https://img.shields.io/badge/GitHub-sahilx--45-181717?style=for-the-badge&logo=github" alt="GitHub profile"/>
+<img src="https://img.shields.io/badge/GITHUB-EXPLORE_MY_WORK-9EFF00?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
-<img src="https://img.shields.io/badge/Focus-Data%20%26%20AI-0F766E?style=for-the-badge" alt="Data and AI"/>
-<img src="https://img.shields.io/badge/Approach-Learn%20by%20Building-2563EB?style=for-the-badge" alt="Learn by building"/>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=sahilx-45&style=flat-square&color=9EFF00&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
 ---
 
-## About
+## `01` / WHO AM I?
 
-I'm an Artificial Intelligence & Data Science engineering student interested in **data analytics, machine learning, and applied AI**. I enjoy exploring datasets, finding patterns, building predictive solutions, and presenting results in a clear, useful way.
+```python
+class SahilNaykodi:
 
-- **Currently focused on:** Data analytics, machine learning, and practical AI projects
-- **Working style:** Hands-on learning, experimentation, and continuous improvement
-- **Interested in:** Data Analyst, Data Science, and AI/ML opportunities
-- **Location:** India
+    def __init__(self):
+        self.name = "Sahil Naykodi"
+        self.education = "AI & Data Science Engineering"
+        self.interests = [
+            "Data Analytics",
+            "Machine Learning",
+            "Artificial Intelligence",
+            "Problem Solving"
+        ]
+        self.current_focus = "Building practical projects"
+        self.mindset = "Learn. Build. Improve. Repeat."
 
-## Technical Skills
+    def goal(self):
+        return "Turning data into meaningful decisions."
+```
 
-| Area | Technologies |
-|---|---|
-| Programming | Python, SQL |
-| Data Analysis | Pandas, NumPy, Excel |
-| Visualization | Power BI, Matplotlib |
-| Machine Learning | Scikit-learn |
-| Databases | MySQL, SQLite |
-| Development Tools | Jupyter Notebook, GitHub, VS Code |
+I'm an AI & Data Science engineering student passionate about transforming raw data into meaningful insights and developing intelligent applications.
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=111111" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-</p>
+I believe in learning through practical implementation, experimenting with real-world datasets, and building projects that solve actual problems.
 
-## Featured Projects
+---
 
-### 01 · Smart Symptom Checker
+## `02` / TECHNICAL ARSENAL
 
-A machine-learning-based application that predicts possible conditions from entered symptoms and presents prediction information through an interactive interface.
+**PROGRAMMING**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,mysql&theme=dark" />
 
-**Built with:** Python · Scikit-learn · Streamlit · SQLite
+**DATA SCIENCE & ANALYTICS**
 
-### 02 · AI-Based Travel Planner
+<img src="https://img.shields.io/badge/Pandas-Data_Manipulation-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-Numerical_Computing-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-Data_Visualization-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-Data_Analysis-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-Visualization-11557C?style=flat-square"/>
 
-A travel-planning application built with a Streamlit interface and a MySQL database for managing travel-related information.
+**MACHINE LEARNING**
 
-**Built with:** Python · Streamlit · MySQL
+<img src="https://img.shields.io/badge/Scikit--learn-Machine_Learning-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Statistics-Data_Insights-8A2BE2?style=flat-square"/>
 
-### 03 · SmartCropAdvisor
+**DEVELOPMENT TOOLS**
 
-A crop recommendation project that uses a trained machine-learning model and a web application interface to provide crop suggestions.
+<img src="https://skillicons.dev/icons?i=git,github,vscode,flask,react&theme=dark" />
+<img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-App_Development-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
 
-**Built with:** Python · Flask · React · Scikit-learn
+---
 
-## GitHub Overview
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sahilx-45&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="Sahil's GitHub statistics"/>
-
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilx-45&layout=compact&hide_border=true&theme=transparent" alt="Most used languages"/>
-
-  <br/>
-
-  <img src="https://streak-stats.demolab.com?user=sahilx-45&hide_border=true&theme=transparent" alt="GitHub contribution streak"/>
-</div>
-
-## What I'm Working On
-
-- Strengthening Python, SQL, and data analysis fundamentals
-- Practising exploratory data analysis and data visualization
-- Building end-to-end machine learning projects
-- Improving project documentation and presentation
-
-## Let's Connect
-
-I'm open to connecting with people working in data analytics, data science, and AI/ML.
+## `03` / SELECTED PROJECTS
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow%20me-181717?style=for-the-badge&logo=github)](https://github.com/sahilx-45)
+### 01 — SMART SYMPTOM CHECKER
 
-**Thanks for visiting my profile. Feel free to explore my repositories!**
+<img src="https://img.shields.io/badge/PROJECT-MACHINE_LEARNING-9EFF00?style=flat-square&labelColor=0B0F0D"/>
+
+An interactive machine-learning application that analyzes user-entered symptoms and predicts possible conditions.
+
+**Core technologies**
+
+`Python` `Scikit-learn` `Streamlit` `SQLite`
+
+---
+
+### 02 — AI-BASED TRAVEL PLANNER
+
+<img src="https://img.shields.io/badge/PROJECT-WEB_APPLICATION-9EFF00?style=flat-square&labelColor=0B0F0D"/>
+
+A travel-planning application with a Streamlit interface and MySQL database integration.
+
+**Core technologies**
+
+`Python` `Streamlit` `MySQL`
+
+---
+
+### 03 — SMARTCROPADVISOR
+
+<img src="https://img.shields.io/badge/PROJECT-APPLIED_AI-9EFF00?style=flat-square&labelColor=0B0F0D"/>
+
+A machine-learning-based crop recommendation application combining a trained prediction model with a web interface.
+
+**Core technologies**
+
+`Python` `Flask` `React` `Scikit-learn`
 
 </div>
 
+---
+
+## `04` / GITHUB ANALYTICS
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sahilx-45&show_icons=true&hide_border=true&bg_color=0B0F0D&title_color=9EFF00&icon_color=9EFF00&text_color=FFFFFF&rank_icon=github" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilx-45&layout=compact&hide_border=true&bg_color=0B0F0D&title_color=9EFF00&text_color=FFFFFF" />
+
+<br/><br/>
+
+<img width="95%" src="https://streak-stats.demolab.com?user=sahilx-45&hide_border=true&background=0B0F0D&ring=9EFF00&fire=9EFF00&currStreakLabel=9EFF00&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" />
+
+</div>
+
+---
+
+## `05` / CURRENT OPERATIONS
+
+```text
+[ ACTIVE ]     Improving Python & SQL
+[ EXPLORING ]  Exploratory Data Analysis
+[ LEARNING ]   Machine Learning & Statistics
+[ BUILDING ]   Practical Data Science Projects
+[ TARGET ]     Data Analyst / Data Science Internship
+```
+
+---
+
+## `06` / BEYOND THE CODE
+
+- Curious about how data drives business decisions.
+- Interested in solving real-world problems with technology.
+- Believe practical projects are the best way to learn.
+- Always exploring something new.
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0B0F0D&height=2&section=footer"/>
+
+### LET'S CONNECT.
+
+**Have an idea? Let's build something meaningful.**
+
+<a href="https://github.com/sahilx-45">
+<img src="https://img.shields.io/badge/GitHub-9EFF00?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+<br/><br/>
+
+<sub>DESIGNED WITH CURIOSITY · POWERED BY CONSISTENCY</sub>
+
+<br/>
+
+**SAHIL NAYKODI © 2026**
+
+</div>
