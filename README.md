@@ -1,151 +1,62 @@
+<h1 align="center">👋 Hi, I'm Sahil Naykodi</h1>
 
-## `> all_projects.exe`
+<p align="center">
+  <b>Data Science Enthusiast | Python Developer | ML & Data Visualization</b>
+</p>
 
-<div align="center">
+<p align="center">
+  <!-- Profile Stats Badges -->
+  <img src="https://komarev.com/ghpvc/?username=sahilx-45&style=flat-square&color=blue" alt="Profile Views">
+  <img src="https://img.shields.io/github/followers/sahilx-45?label=Followers&style=flat-square&color=green" alt="Followers">
+  <img src="https://img.shields.io/github/stars/sahilx-45?style=flat-square&color=yellow" alt="Stars">
+</p>
 
-<img src="https://img.shields.io/badge/PROJECTS-08-B026FF?style=for-the-badge&labelColor=080610"/>
-<img src="https://img.shields.io/badge/STATUS-MAKING%20PROGRESS-8A2BE2?style=for-the-badge&labelColor=080610"/>
+<p align="center">
+  <!-- Skills Badges -->
+  <img src="https://img.shields.io/badge/Python-3.12-blue?logo=python&style=for-the-badge" alt="Python">
+  <img src="https://img.shields.io/badge/NumPy-1.26-orange?logo=numpy&style=for-the-badge" alt="NumPy">
+  <img src="https://img.shields.io/badge/Pandas-1.6-lightblue?logo=pandas&style=for-the-badge" alt="Pandas">
+  <img src="https://img.shields.io/badge/Matplotlib-3.8-purple?logo=matplotlib&style=for-the-badge" alt="Matplotlib">
+  <img src="https://img.shields.io/badge/MySQL-8.0-blue?logo=mysql&style=for-the-badge" alt="MySQL">
+</p>
 
-</div>
+---
 
-<table>
-<tr>
-<td width="50%" valign="top">
+## 🌟 About Me
+Hi! I'm **Sahil Naykodi**, a passionate **Data Science learner** from Pune, India.  
+I love exploring datasets, building **ML models**, and visualizing data insights.  
 
-### 💜 01. Smart Symptom Checker
+> 💡 Fun fact: I enjoy combining **data, code, and creativity** to solve real-world problems!  
 
-ML-powered symptom prediction application.
+---
 
-**Tech:** Python · Scikit-learn · Streamlit · SQLite
+## 💻 Projects
 
-- Symptom-based prediction
-- Interactive dashboard
-- Prediction history
+| Project | Description | Tech Stack | GitHub |
+|---------|------------|------------|--------|
+| 🩺 **Smart Symptom Checker** | AI-powered disease prediction using user symptoms. Shows probability charts and stores data in a local database. | Python, Streamlit, scikit-learn, SQLite, Matplotlib | [Repo](https://github.com/sahilx-45/smart-symptom-checker) |
+| 🌍 **AI-Based Travel Planner** | Generates optimized travel itineraries based on user preferences. Distributes locations across days with ratings and stores itinerary in a database. | Python, Streamlit, MySQL, Pandas | [Repo](https://github.com/sahilx-45/AI-Based-Travel-Planner) |
+| 🎓 **Student Result Management System** | Python-based system to store student records, calculate percentage automatically, generate grades, and view results using a menu-driven interface. | Python, Dictionaries, CLI, Jupyter Notebook | [Repo](https://github.com/sahilx-45/Result-Management-Internship-Project) |
 
-[View Repository](https://github.com/sahilx-45?tab=repositories)
+> Each project card shows **what the project does, tech used, and a direct link to the repo**.  
 
-</td>
-<td width="50%" valign="top">
+---
 
-### 💜 02. AI-Based Travel Planner
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sahilx-45&show_icons=true&theme=radical" />
+</p>
 
-A web application for organizing travel plans.
+---
 
-**Tech:** Python · Streamlit · MySQL
+## 📫 Connect with Me
+<p align="center">
+  <a href="mailto:sahilnaykodi084@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/sahilx-45"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/sahil-naykodi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.instagram.com/sahilnaykodi/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+</p>
 
-- Travel planning interface
-- MySQL database integration
-- Interactive application
+---
 
-[View Repository](https://github.com/sahilx-45?tab=repositories)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 💜 03. SmartCropAdvisor
-
-ML-based crop recommendation system.
-
-**Tech:** Python · Flask · React · Scikit-learn
-
-- Crop recommendation
-- ML model integration
-- Web interface
-
-[View Repository](https://github.com/sahilx-45?tab=repositories)
-
-</td>
-<td width="50%" valign="top">
-
-### 💜 04. PhonePe Data Analysis
-
-Exploratory analysis of PhonePe transaction-related data.
-
-**Tech:** Python · Pandas · NumPy · Visualization
-
-- Data cleaning and exploration
-- Transaction analysis
-- Visualization and insights
-
-[View Repository](https://github.com/sahilx-45?tab=repositories)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 💜 05. Stock Market Prediction
-
-A Python-based stock market prediction mini-project.
-
-**Tech:** Python · Pandas · NumPy · Matplotlib
-
-- Historical data analysis
-- Visualization
-- Prediction experimentation
-
-[View Repository](https://github.com/sahilx-45?tab=repositories)
-
-</td>
-<td width="50%" valign="top">
-
-### 💜 06. Student Result Management System
-
-A Python project for managing student results.
-
-**Tech:** Python
-
-- Student records
-- Result management
-- Dictionary-based data handling
-
-[View Repository](https://github.com/sahilx-45?tab=repositories)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 💜 07. Library Management System
-
-A Java-based library management project.
-
-**Tech:** Java
-
-- Library record management
-- Book management
-- Basic application logic
-
-[View Repository](https://github.com/sahilx-45?tab=repositories)
-
-</td>
-<td width="50%" valign="top">
-
-### 💜 08. Nearby Product Finder
-
-A product discovery and price comparison concept.
-
-**Tech:** Python · Streamlit · Database · Maps
-
-- Nearby shop discovery
-- Product price comparison
-- Best-deal identification
-
-**Status:** Concept / prototype idea
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-<a href="https://github.com/sahilx-45?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE%20ALL%20REPOSITORIES-B026FF?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
+<p align="center">Made with ❤️ using <b>Python</b> & <b>Data Science</b></p>
